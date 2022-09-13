@@ -232,3 +232,8 @@ img {
   max-height: 800px;
   object-fit: cover;
 }
+
+.footer{
+  text-align: center;
+  font-size: 0.7em;
+}
