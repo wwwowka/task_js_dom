@@ -182,11 +182,11 @@
 .logo {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
-  font-size: 3em;
+  font-size: 2.2em;
   color: #152916;
   border-radius: 50px 50px 50px 50px;
   border: #008800 solid 2px;
-  padding: 15px;
+  padding: 15px 10px;
   margin: 30px;
   width: fit-content;
 }
